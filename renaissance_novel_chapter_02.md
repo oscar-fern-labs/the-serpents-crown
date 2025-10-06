@@ -4,17 +4,19 @@
 ### CHAPTER TWO: THE GOLDEN CITY
 
 **Florence, April 1478**
-**Fifteen Months Later**
+**Fifteen Months After Galeazzo's Murder**
 
-Lorenzo de' Medici stood in the Palazzo Medici's private garden and watched his brother seduce a banker's daughter. Giuliano had always been the beautiful one, the charming one, the one who could make women forget their virtue with nothing more than a smile and a well-turned phrase. Lorenzo had been forced to develop other talents—intelligence, political acumen, the ability to balance a dozen competing interests while making each party believe they had won.
+The winter of 1477 had passed into spring of 1478, and Italy remained balanced on a knife's edge. In Milan, Ludovico Sforza consolidated his regency. In Venice, the Doge plotted expansion. And in Florence, the Medici Bank prospered while enemies gathered in Rome.
+
+Lorenzo de' Medici stood in the Palazzo Medici's private garden and watched his brother seduce another nobleman's daughter. Giuliano had always been the beautiful one, the charming one, the one who could make women forget their virtue with nothing more than a smile and a well-turned phrase. Lorenzo had been forced to develop other talents—intelligence, political acumen, the ability to balance a dozen competing interests while making each party believe they had won.
 
 "You're glowering," said Angelo Poliziano, coming up beside him with a cup of wine in each hand. The poet-philosopher offered one to Lorenzo, who took it gratefully. "It makes you look like a gargoyle contemplating the mathematics of sin."
 
-"I'm contemplating the mathematics of my brother's romantic entanglements," Lorenzo replied. "Do you know who she is?"
+"I'm contemplating how my brother's romantic entanglements complicate everything," Lorenzo replied. "He doesn't care about family connections, about whose daughter she might be, about how these things create obligations."
 
-"Marietta Pazzi. Second cousin to Francesco de' Pazzi, if I'm not mistaken. And you're never mistaken about things like that, so she must be exactly who I think she is."
+"Ah. So she's someone important?"
 
-"Which makes this monumentally stupid," Lorenzo said, taking a long drink. The wine was excellent—Chianti from their own vineyards in the hills. Everything in Florence was excellent these days. It was enough to make a cautious man nervous.
+"Everyone in Florence is someone important. That's the problem." Lorenzo took a long drink. The wine was excellent—Chianti from their own vineyards in the hills. Everything in Florence was excellent these days. It was enough to make a cautious man nervous.
 
 The garden was in full spring bloom, roses and jasmine filling the air with perfume, a fountain splashing musically in the center of the courtyard. It was the kind of perfect afternoon that poets wrote odes about, the kind of moment that seemed suspended in amber, golden and unchanging. Lorenzo had learned long ago not to trust such moments. They were usually the prelude to disaster.
 

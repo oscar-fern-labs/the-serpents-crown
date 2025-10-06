@@ -100,7 +100,11 @@ Caterina smiled then, and it was not a pleasant expression. "I am my father's da
 
 "Wise girl."
 
-"Wise woman," she corrected. "In a few years, I'll be married off to some lord or condottiero, and then I'll have my own game to play. Until then..." She shrugged. "Until then, I watch and learn."
+"Wise woman," she corrected. "Soon I'll be married—you know Pope Sixtus's nephew, Girolamo Riario, has been negotiating for my hand. Lord of Imola and Forlì, ambitious and dangerous. It's a political match, but it could be useful. Until then..." She shrugged. "Until then, I watch and learn. And when I have my own territories to defend, I'll remember everything you've taught me."
+
+"Defend them well," Ludovico said, sensing that this fierce niece would indeed need to fight someday. "The world isn't kind to women who claim power."
+
+"Then I'll be unkind back," Caterina said simply.
 
 "Good," Ludovico said. "Then watch this: tomorrow we will hold a council. The surviving nobles, the church, the Milanese patricians—all the vultures who think they can carve up what remains. And we will show them that the Sforza still have teeth."
 

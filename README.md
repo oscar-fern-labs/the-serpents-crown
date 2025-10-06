@@ -96,9 +96,26 @@ Written in the tradition of **Conn Iggulden's** historical fiction:
 
 ### Files in This Repository
 
-- **complete_novel.md** - The entire novel in one file
-- **renaissance_novel_chapter_01.md through 10.md** - Individual chapters
+- **complete_novel_EDITED.md** - The entire novel in one file (EDITED VERSION - RECOMMENDED)
+- **complete_novel.md** - Original draft version
+- **renaissance_novel_chapter_01.md through 10.md** - Individual chapters (edited versions)
+- **editorial_analysis.md** - Comprehensive 5,000-word editorial review
+- **EDITING_NOTES.md** - Detailed documentation of all changes made
 - **README.md** - This file
+
+### Editorial Status
+
+This novel has undergone comprehensive editorial review (Step 3 of creation process). Major improvements include:
+
+**✅ Chapter 8:** Completely restructured to fix timeline continuity (War of Ferrara 1482-84 vs Beatrice marriage 1491)
+**✅ Chapter 10:** Expanded by 67% with better pacing, Battle of Fornovo detail, character resolutions
+**✅ Historical Accuracy:** All dates and events verified and corrected
+**✅ Character Arcs:** All subplots resolved (including Caterina Sforza)
+**✅ Prose Polish:** Improved clarity, pacing, and dramatic impact
+
+**Recommendation:** Read `complete_novel_EDITED.md` for the best experience.
+
+See `EDITING_NOTES.md` for complete documentation of changes.
 
 ### Author's Note
 
